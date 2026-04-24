@@ -1,4 +1,4 @@
-public class App {
+public class AppHelloWorld {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
         System.out.println("Configurando o JDK na versão " + args[0]);
